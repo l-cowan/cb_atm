@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1644351678 source:c:\users\lecow\documents\firstcpp\atm_program\main.cpp
+	<iostream>
+	<windows.h>
+
